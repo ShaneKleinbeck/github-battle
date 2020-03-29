@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ShaneKleinbeck/github-battle#readme",
   "devDependencies": {
+    "svg-inline-loader": "^0.8.2",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
   }
